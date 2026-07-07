@@ -174,6 +174,6 @@ Microsoft Learn - SC-900
 LetsDefend - SOC Analyst Training
 
 🤝 Contacto
-LinkedIn: [https://www.linkedin.com/in/dairo-delgadillo-dev/]
-GitHub: [https://github.com/Dairo-Delgadillo-DEv/]
-Email: [dairodelgadillo302@gmail.com]
+LinkedIn: https://www.linkedin.com/in/dairo-delgadillo-dev/
+GitHub: https://github.com/Dairo-Delgadillo-DEv/
+Email: dairodelgadillo302@gmail.com
